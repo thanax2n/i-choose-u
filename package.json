@@ -1,0 +1,22 @@
+{
+  "name": "i-choose-u",
+  "version": "1.0.0",
+  "description": "Get a random Pokemon",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@thananan-l.github.com:thananan-l/i-choose-u.git"
+  },
+  "keywords": [
+    "random",
+    "pokemon"
+  ],
+  "author": "TL",
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
