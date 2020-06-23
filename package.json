@@ -1,6 +1,6 @@
 {
   "name": "i-choose-u",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get a random Pokemon",
   "main": "src/index.js",
   "scripts": {
